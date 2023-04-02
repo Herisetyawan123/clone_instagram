@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+project ini dibuat sebagai media pembelajaran pembuatan ui dengan meniru tampilan dari instagram
+installing project:
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/Herisetyawan123/clone_instagram
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cd clone_instagram
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub get
+
+open your vscode/code editor
+```
